@@ -71,7 +71,7 @@ export default function TokenLogo({ address, header = false, size = '24px', ...r
     )
   }
 
-  if (address?.toLowerCase() === '0xfeca27a665dae2cd212a251a1fa7aa8037495b20') {
+  if (address?.toLowerCase() === '0x10b0a78520fbdda95adc331445d9319b164f85d5') {
     return (
       <StyledBinanceLogo size={size} {...rest}>
         <img

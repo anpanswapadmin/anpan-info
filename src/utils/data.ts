@@ -19,7 +19,7 @@ const TOKEN_OVERRIDES: { [address: string]: { name: string; symbol: string } } =
     name: 'BNB (Wrapped)',
     symbol: 'BNB',
   },
-  '0xfeca27a665dae2cd212a251a1fa7aa8037495b20': {
+  '0x10b0a78520fbdda95adc331445d9319b164f85d5': {
     name: 'AnpanSwap Token',
     symbol: 'ANPAN',
   },
